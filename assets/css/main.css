@@ -3691,3 +3691,23 @@ body {
 		}
 
 	}
+
+scrolltop.show {
+    opacity: 0.6;
+    visibility: visible;
+}
+#scrolltop {
+    display: inline-block;
+    background-color: #45558d;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 60px;
+    right: 10px;
+    transition: background-color .3s, opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
