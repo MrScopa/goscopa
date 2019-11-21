@@ -3385,10 +3385,9 @@ body {
 				-ms-flex: 1;
 			}
 
-				.wrapper.spotlight .image img {
-					border-radius: 100%;
-					width: 100%;
-				}
+			.wrapper.spotlight .image img {
+				width: 100%;
+			}
 
 			.wrapper.spotlight .content {
 				width: 100%;
