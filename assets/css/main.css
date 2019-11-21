@@ -3692,10 +3692,11 @@ body {
 
 	}
 
-scrolltop.show {
+#scrolltop.show {
     opacity: 0.6;
     visibility: visible;
 }
+
 #scrolltop {
     display: inline-block;
     background-color: #45558d;
