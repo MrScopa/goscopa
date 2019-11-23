@@ -3731,3 +3731,7 @@ body {
   visibility: visible;
 }
 
+.icon .fab {
+  font-size: 1em;
+  margin-left: 20px;
+}
